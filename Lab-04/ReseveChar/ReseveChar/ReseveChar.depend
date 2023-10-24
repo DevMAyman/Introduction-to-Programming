@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698020618 source:c:\users\dell\desktop\iti\c-lang\resevechar\resevechar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1698041856 source:c:\users\dell\desktop\iti\c-lang\lab-04\resevechar\resevechar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

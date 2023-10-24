@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698016396 source:c:\users\dell\desktop\iti\c-lang\removespecialchar\removespecialchar\main.c
+	<stdio.h>
+	<stdlib.h>
+

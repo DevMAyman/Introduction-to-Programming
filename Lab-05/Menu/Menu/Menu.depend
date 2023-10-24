@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1698011022 source:c:\users\dell\desktop\iti\c-lang\menu\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1698063441 source:c:\users\dell\desktop\iti\c-lang\lab-04\menu\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"standard_types.h.h"
+
+1698053210 c:\users\dell\desktop\iti\c-lang\lab-04\menu\menu\standard_types.h.h
+

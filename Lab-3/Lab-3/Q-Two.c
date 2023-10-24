@@ -1,0 +1,17 @@
+void Read_Write_Array(){
+    int arr[100];
+int size=0;
+printf("Please Enter an array length");
+scanf("%d",&size);
+while(size>100){
+        printf("Please Enter a size less than or equal 100\n");
+        scanf("%d",&size);
+    }
+printf("Please Enter array numbers");
+for(int i=0;i<size;i++){
+    scanf("%d",&arr[i]);
+}
+for(int i=0;i<size;i++){
+    printf("%d\n",arr[i]);
+}
+}

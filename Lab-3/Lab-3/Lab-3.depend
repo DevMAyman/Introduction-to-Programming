@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697745410 source:c:\users\dell\desktop\iti\c-lang\lab-3\lab-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1697743697 source:c:\users\dell\desktop\iti\c-lang\lab-3\lab-3\q-two.c
+
+1697744991 source:c:\users\dell\desktop\iti\c-lang\lab-3\lab-3\q-three.c
+

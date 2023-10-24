@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698021390 source:c:\users\dell\desktop\iti\c-lang\normalorextend\normalorextend\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698021390 source:c:\users\dell\desktop\iti\c-lang\lab-04\normalorextend\normalorextend\main.c
+	<stdio.h>
+	<stdlib.h>
+
