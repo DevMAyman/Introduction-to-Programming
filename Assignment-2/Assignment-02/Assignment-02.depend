@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698035422 source:c:\users\dell\desktop\iti\c-lang\assignment-2\assignment-02\main.c
+	<stdio.h>
+	<stdlib.h>
+
