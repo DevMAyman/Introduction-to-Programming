@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698188384 source:c:\users\dell\desktop\lab-6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
